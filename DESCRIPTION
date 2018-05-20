@@ -1,0 +1,15 @@
+Package: ggShine
+Title: Modify ggplot Using Shiny
+Version: 0.0.0.9000
+Authors@R: person("ChenYang", "zhang", email = "heiyangs@163.com", role = c("aut", "cre"))
+Description: What the package does (one paragraph).
+Depends: R (>= 3.5.0)
+License: GPL
+Encoding: UTF-8
+LazyData: true
+Imports:
+    shiny,
+    ggplot
+Suggests:
+    tidyverse
+
